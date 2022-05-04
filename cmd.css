@@ -1,0 +1,13 @@
+#cmdline_text{
+    font-family: monospace;
+    font-size: 12px;
+    margin: 0px;
+}
+#cmdline{
+    font-family: monospace;
+    font-size: 12px;
+    margin: 0px;
+    border-width:0px;
+    border:none;
+    outline:none;
+}
